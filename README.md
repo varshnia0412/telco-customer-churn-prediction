@@ -6,7 +6,7 @@
 This project provides an end-to-end Machine Learning solution to predict customer churn in the telecommunications industry. By identifying at-risk customers, businesses can take proactive measures to improve retention and reduce revenue loss.
 
 ## 🚀 Live App Preview
-![App Screenshot](PASTE_LINK_TO_YOUR_IMAGE_HERE)
+![App Screenshot](https://github.com/varshnia0412/telco-customer-churn-prediction/blob/main/screenshots/preview.png?raw=true)
 *Interactive Dashboard built with Streamlit.*
 
 ## 🧠 Model Performance
