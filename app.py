@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 import pickle
 
-# Load the brain
-model = pickle.load(open('churn_model.pkl', 'rb'))
-cols = pickle.load(open('columns.pkl', 'rb'))
+# Load the brain from the models sub-folder
+model = pickle.load(open('models/churn_model.pkl', 'rb'))
+cols = pickle.load(open('models/columns.pkl', 'rb'))
 
 st.title("📊 Customer Churn Predictor")
 
